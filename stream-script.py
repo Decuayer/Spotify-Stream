@@ -583,3 +583,5 @@ if __name__ == "__main__":
         t.join()
 
     print("🎉 Tüm dinletmeler başarıyla verildi.")
+
+    input("Çıkmak için enter'a basın...")
